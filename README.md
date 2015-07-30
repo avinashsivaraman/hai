@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # "Cardio" One Page Website Template
 
 "Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
@@ -53,3 +54,7 @@ Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.face
 [© Codrops 2015](http://www.codrops.com)
 
 
+=======
+# hai
+Summa 
+>>>>>>> 91e607571980f3a79f7c2ba01ca3597fea9f35b3
